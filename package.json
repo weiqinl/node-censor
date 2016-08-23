@@ -1,18 +1,24 @@
 {
-  "name": "censorify",
+  "name": "node-censor",
   "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:weiqinl/node-censor.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "censors"
+    "censors",
+    "words"
   ],
-  "author": "liuweiqin",
+  "author": "weiqin",
   "license": "MIT",
   "dependencies": {},
   "engines": {
     "node": "*"
   }
+
 }
